@@ -527,6 +527,7 @@ textarea:focus {
   justify-content: center;
   align-items: center;
   padding: 40px;
+  margin-top: 40px;
   gap: 30px;
   background-color: #4f6537;
 }
